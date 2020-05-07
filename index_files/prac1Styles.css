@@ -1,0 +1,82 @@
+table, td{
+  border-color: #11df99 ;
+  border-style:ridge;
+  color: whitesmoke;
+ 
+}
+
+h1{
+  text-align:center;
+  color: #679767;
+  font-size: 5em;
+  font-family: "Brushstroke", "Times new roman";
+  /*font-style: italic;
+  font-weight: bold; */
+  
+}
+
+body{
+    background-color:#222322;
+  color: grey;
+}
+
+p{
+  font-size: 20px;
+}
+
+.hatedCol{
+  color:goldenrod;
+}
+
+table, .likesdislikes{
+  display:block;
+  position:relative;
+  background-color: gray;
+   margin-left: 20em;
+  margin-right: 25em;
+  padding:15px;
+  
+}
+
+td{
+  padding: 10px;  
+  font-size: 20px;
+  text-align: center;
+  margin: 15px;
+}
+
+th{
+  font-size: 140%;
+  font-family: helvetica;
+  background-color: grey;
+  border: 5px ridge #11cc99;
+  border-radius: 5px;
+}
+.favcol{
+  color:Lime;
+}
+
+.dislikes{
+  color: firebrick;
+}
+
+.likes{
+  color: #2448aa;
+}
+
+img.jnr{
+  transform: rotate(90deg);
+}
+
+div.jnr{
+   display: inline;
+  position: relative;
+  float: right;
+}
+div.jnrdes{
+  width: 1000px;
+
+  position: relative;
+}
+
+
